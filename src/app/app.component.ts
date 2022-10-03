@@ -10,7 +10,7 @@ export class AppComponent {
 
 
 
-  
+  console.log("object");
 
 
 }
